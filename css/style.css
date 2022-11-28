@@ -13,5 +13,32 @@ header, section{
     padding: 5rem;
 }
 header{
-    background-color: #21969;
+    background-color: #2196f3 ;
+}
+main{
+    /*Conteudo ficar centralizado*/
+    margin: auto;
+    /*Aplicando Grid*/
+    
+}
+.video-player{
+    background-color: #ffeb3b;
+}
+.video-info{
+    background-color: #e91e63;
+}
+.actions{
+    background-color: #03a9fa;
+}
+.channel{
+    background-color: #673ab7;
+}
+.subscribe{
+    background-color: #8bc34a;
+}
+.ad{
+    background-color: #ff5722;
+}
+.up-next{
+    background-color: #3f51b5;
 }
